@@ -14,17 +14,16 @@ I'm a passionate Web Developer with a love for building scalable web apps and ex
 ### 📂 Favorite Projects
 - [Open AI with WhatsApp and Telegram](https://github.com/DilipGoud03/open-ai-with-whatspp-and-telegram): AI-powered messaging integrations.
 - [FastAPI gRPC Authentication](https://github.com/DilipGoud03/fast-api-gRpc-authentication): Secure, scalable authentication microservice.
-- [Profile](https://github.com/DilipGoud03/Profile): My portfolio and code playground.
 - [Langchain Chatbot](https://github.com/teamprofilics/langchain-chatbot): Advanced chatbot using Langchain and AI.
 
 ### 🎵 Fun Facts
 - I love traveling to new places and soaking in different cultures.
 - Music is my constant companion.
 
-<!--
+
 ### 🔗 Social Links
-Add your social links here!
--->
+- [LinkedIn]()
+
 
 <!--
 ### 📫 Contact Me
@@ -32,6 +31,3 @@ Add your contact info here!
 -->
 
 ---
-
-> “Code is like humor. When you have to explain it, it’s bad.”  
-> *- Cory House*
